@@ -1,0 +1,13 @@
+{
+  "name": "demo",
+  "version": "",
+  "description": "python - raspberry-pi",
+  "main": "drop.py",
+  "author": "",
+  "license": "",
+  "language":"python",
+  "scripts": {
+     "start": "python -u drop.py"
+    },
+   "dependency": null
+}
