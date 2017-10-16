@@ -7,7 +7,7 @@
   "license": "",
   "language":"python",
   "scripts": {
-     "start": "python -u rainbow.py"
+     "start": "python -u drop.py"
     },
    "dependency": null
 }
